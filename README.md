@@ -1,5 +1,14 @@
 ![Profil banner](https://github-widgetbox.vercel.app/api/profile?username=ryse93&data=followers,repositories,stars,commits)
 
+#### 🛠 — Skills
+
+![Skills](https://skillicons.dev/icons?i=css,html,python,laravel,github,figma,vscode,sqlite&theme=dark)
+
+#### ⚙️ — Statistics
+
+![Statistiques](https://github-readme-stats.vercel.app/api?username=ryse93&show_icons=true&hide_border=true&count_private=true&theme=monokai)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ryse93&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryse93&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!--
 **Ryse93/Ryse93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
