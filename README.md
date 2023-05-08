@@ -2,7 +2,7 @@
 
 #### 🛠 — Skills
 
-![Skills](https://skillicons.dev/icons?i=css,html,python,laravel,github,figma,vscode,sqlite&theme=dark)
+![Skills](https://skillicons.dev/icons?i=css,html,python,github,figma,vscode,sqlite&theme=dark)
 
 #### ⚙️ — Statistics
 
