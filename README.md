@@ -1,4 +1,4 @@
-![Profil banner](https://github-widgetbox.vercel.app/api/profile?username=ryse93&data=followers,repositories,stars,commits)
+![Profil banner](https://github-widgetbox.vercel.app/api/profile?username=ryse93&theme=darkmode&data=followers,repositories,stars,commits)
 
 #### 🛠 — Skills
 
