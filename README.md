@@ -1,4 +1,5 @@
 ![Profil banner](https://github-widgetbox.vercel.app/api/profile?username=ryse93&theme=darkmode&data=followers,repositories,stars,commits)
+Hello, I'm Ryse93, a French student in high school and I'm 17 years old.
 
 #### 🛠 — Skills
 
