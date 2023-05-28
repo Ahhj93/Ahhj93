@@ -6,9 +6,9 @@
 
 #### ⚙️ — Statistics
 
-![Statistiques](https://github-readme-stats.vercel.app/api?username=ryse93&show_icons=true&hide_border=true&count_private=true&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ryse93&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryse93&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![Statistiques](https://github-readme-stats.vercel.app/api?username=ryse93&show_icons=true&count_private=true&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ryse93&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryse93&theme=dark&include_all_commits=false&count_private=true)
 
 <!--
 **Ryse93/Ryse93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
