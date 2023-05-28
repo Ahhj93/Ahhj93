@@ -1,5 +1,7 @@
-<div align=center>![Profil banner](https://github-widgetbox.vercel.app/api/profile?username=ryse93&theme=darkmode&data=followers,repositories,stars,commits)
-<br>Hello, I'm Ryse93, a French student in high school and I'm 17 years old.</div>
+<div align=center>
+  <img alt="Profil banner" src="https://github-widgetbox.vercel.app/api/profile?username=ryse93&theme=darkmode&data=followers,repositories,stars,commits">
+  <h3>👋 Hi, I'm Ryse93, a French student in high school and I'm 17 years old.</h3>
+</div>
 
 #### 🛠 — Skills
 
