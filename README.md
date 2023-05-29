@@ -4,8 +4,9 @@
 </div>
 
 #### 📚 — Contribution
-* [Wikipedia (with Ryse93 username)](https://fr.wikipedia.org/wiki/Utilisateur:Ryse93)
+* [Wikipedia](https://fr.wikipedia.org/wiki/Utilisateur:Ryse93)
 * [OpenStreetMap](https://www.openstreetmap.org/user/ahhj)
+* [Waze](https://www.waze.com/fr/user/editor/SilvainPeaceful)
 
 #### 🛠 — Skills
 
