@@ -3,6 +3,10 @@
   <h3>👋 Hi, I'm Ahhj93, a French student in high school and I'm 17 years old.</h3>
 </div>
 
+#### 📚 — Contribution
+* [Wikipedia (with Ryse93 username)](https://fr.wikipedia.org/wiki/Utilisateur:Ryse93)
+* [OpenStreetMap](https://www.openstreetmap.org/user/ahhj)
+
 #### 🛠 — Skills
 
 ![Skills](https://skillicons.dev/icons?i=css,html,python,github,figma,vscode,sqlite&theme=dark)
