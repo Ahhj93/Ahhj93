@@ -1,6 +1,7 @@
 <div align=center>
   <img alt="Profil banner" src="https://github-widgetbox.vercel.app/api/profile?username=ahhj93&theme=darkmode&data=followers,repositories,stars,commits">
   <h3>👋 Hi, I'm Ahhj93, a French student in high school and I'm 17 years old.</h3>
+  <img alt="Profil views" src"https://komarev.com/ghpvc/?username=Ahhj93&label=Profile%20views&color=0e75b6&style=flat">
 </div>
 
 #### 📚 — Contribution
