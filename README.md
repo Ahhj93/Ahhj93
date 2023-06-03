@@ -15,11 +15,7 @@
 
 #### ⚙️ — Statistics
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=ahhj93&show_icons=true&count_private=true&theme=tokyonight" media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=ahhj93&show_icons=true&count_private=true&theme=default" media="(prefers-color-scheme: light)"/>
- </picture>
- 
+![](https://github-readme-stats.vercel.app/api?username=ahhj93&show_icons=true&count_private=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahhj93&theme=tokyonight)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahhj93&theme=tokyonight&include_all_commits=false&count_private=true)
 
