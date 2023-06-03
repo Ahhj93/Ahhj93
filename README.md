@@ -18,14 +18,11 @@
 <table>
     <tbody>
          <tr>
-            <td colspan=2 align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahhj93&theme=tokyo-night&radius=10&height=300" width="925"></td>
+            <td colspan=2 align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahhj93&theme=tokyo-night&radius=10&height=300" width="925"><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahhj93&theme=tokyonight&include_all_commits=true&count_private=true&card_width=925&layout=compact"></td>
         </tr>
         <tr>
             <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahhj93&show_icons=true&count_private=true&theme=tokyonight&card_width=450"></td>
             <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahhj93&theme=tokyonight&card_width=450"></td>
-        </tr>
-        <tr>
-            <td colspan=2 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahhj93&theme=tokyonight&include_all_commits=false&count_private=true&card_width=925"></td>
         </tr>
     </tbody>
 </table>
