@@ -1,5 +1,5 @@
 <div align=center>
-  <img alt="Profil banner" src="https://github-widgetbox.vercel.app/api/profile?username=ahhj93&theme=darkmode&data=followers,repositories,stars,commits">
+  <img alt="Profil banner" src="https://github.com/Ahhj93/Ahhj93/assets/69793084/36248613-870c-4198-8087-92753bfd8827">
   <h3>👋 Hi, I'm Ahhj93, a french student in CPGE MP2I to study computer science and I'm 18 years old.</h3>
   <img alt="Profil views" src="https://komarev.com/ghpvc/?username=ahhj93&label=Profile%20views&color=0e75b6&style=flat">
 </div>
