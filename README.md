@@ -2,6 +2,7 @@
   <img alt="Profil banner" src="https://github.com/Ahhj93/Ahhj93/assets/69793084/6571ea42-697a-4072-8666-60e4152d74eb">
   <h3>👋 Hi, I'm Ahhj, a french student in CPGE MP2I at Lycee Hoche in France to study computer science, maths and physics and I'm 18 years old.</h3>
   <img alt="Profil views" src="https://komarev.com/ghpvc/?username=ahhj93&label=Profile%20views&color=0e75b6&style=flat">
+  <img alt="Wakatime" src="https://wakatime.com/badge/user/981b305b-8372-4d3e-8d15-be7329c754a3.svg">
 </div>
 
 #### 📚 — Contribution
