@@ -25,7 +25,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahhj93&show_icons=true&count_private=true&theme=tokyonight&card_width=450" width="49.5%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahhj93&theme=tokyonight&card_width=450" width="49.5%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahhj93" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahhj93">
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahhj93&theme=tokyonight" width="50%">
