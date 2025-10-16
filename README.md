@@ -23,8 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahhj93&theme=tokyonight&include_all_commits=true&count_private=true&card_width=925&layout=compact" width="100%">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahhj93&show_icons=true&count_private=true&theme=tokyonight&card_width=450" width="49.5%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahhj93&theme=tokyonight&card_width=450" width="49.5%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahhj93&show_icons=true&count_private=true&theme=tokyonight&card_width=450" width="100%">
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahhj93&theme=tokyonight" width="50%">
