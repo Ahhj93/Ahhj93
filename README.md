@@ -12,7 +12,7 @@
 
 #### 🛠 — Skills
 
-![Skills](https://skillicons.dev/icons?i=css,html,python,c,ocaml,latex,github,figma,vscode,sqlite&theme=dark)
+![Skills](https://skillicons.dev/icons?i=css,html,js,python,c,ocaml,latex,github,figma,vscode,sqlite&theme=dark)
 
 #### ⚙️ — Statistics
 
