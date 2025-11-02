@@ -1,5 +1,5 @@
 <div align=center>
-  <img alt="Profil banner" src="https://github.com/user-attachments/assets/bcb39811-e68a-4c26-b790-a29a45cf5e7c">
+  <img alt="Profil banner" src="https://github.com/user-attachments/assets/12efe2fe-8fcc-42cb-90af-53cde1e8ae7b">
   <h3>👋 Hi, I'm Bryan.</h3>
   <img alt="Profil views" src="https://komarev.com/ghpvc/?username=ahhj93&label=Profile%20views&color=0e75b6&style=flat">
   <img alt="Wakatime" src="https://wakatime.com/badge/user/981b305b-8372-4d3e-8d15-be7329c754a3.svg">
