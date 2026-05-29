@@ -5,11 +5,6 @@
   <img alt="Wakatime" src="https://wakatime.com/badge/user/981b305b-8372-4d3e-8d15-be7329c754a3.svg">
 </div>
 
-#### 📚 — Contribution
-* [Wikipedia](https://fr.wikipedia.org/wiki/Utilisateur:Ahhj_Sensei)
-* [OpenStreetMap](https://www.openstreetmap.org/user/ahhj)
-* [Waze](https://www.waze.com/fr/user/editor/SilvainPeaceful)
-
 #### 🛠 — Skills
 
 ![Skills](https://skillicons.dev/icons?i=css,html,js,python,c,ocaml,latex,md,github,figma,vscode,idea,discord,sqlite,ubuntu,windows,apple&theme=dark)
