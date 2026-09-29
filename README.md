@@ -9,12 +9,6 @@
 
 ![Skills](https://skillicons.dev/icons?i=css,html,js,python,c,ocaml,latex,md,github,figma,vscode,idea,discord,sqlite,ubuntu,windows,apple&theme=dark)
 
-#### ⚙️ — Statistics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahhj93&theme=tokyo-night&radius=8&height=300" width="100%">
-</div>
-
 <!--
 **Ryse93/Ryse93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
