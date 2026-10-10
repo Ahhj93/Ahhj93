@@ -9,6 +9,18 @@
 
 ![Skills](https://skillicons.dev/icons?i=css,html,js,python,c,ocaml,latex,md,github,figma,vscode,idea,discord,sqlite,ubuntu,windows,apple&theme=dark)
 
+#### ⚙️ — Statistics
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahhj93&theme=tokyonight&include_all_commits=true&count_private=true&card_width=925&layout=compact" width="100%">
+</div>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ahhj93&show_icons=true&count_private=true&theme=tokyonight&card_width=900" width="100%">
+</div>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=ahhj93&theme=tokyonight&card_width=900" width="100%">
+</div>
+
 <!--
 **Ryse93/Ryse93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
