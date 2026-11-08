@@ -66,11 +66,3 @@ const bryan = {
     <img width="99%" src="https://github-stats-extended.vercel.app/api/wakatime?username=ahhj93&card_width=900&hide_border=true&bg_color=ffe5ec&title_color=e0457b&text_color=8a4a63&icon_color=fb6f92" alt="wakatime"/>
   </picture>
 </p>
-
-<!-- 🌸 Footer -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff6fae%2C50:5c2a4f%2C100:1a1020&height=120&section=footer"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb6f92,50:ffb3c6,100:ffe5ec&height=120&section=footer" width="100%" alt="footer"/>
-  </picture>
-</p>
