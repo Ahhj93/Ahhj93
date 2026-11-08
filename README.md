@@ -1,9 +1,6 @@
-<!-- 🌸 Banner -->
+<!-- 👋 Wave -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1020%2C50:5c2a4f%2C100:ff6fae&height=200&section=header&text=Bryan&fontSize=70&fontColor=ffd6e8&fontAlignY=38&animation=fadeIn&desc=developer%20·%20student%20·%20creative&descSize=16&descAlignY=58"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe5ec,50:ffb3c6,100:fb6f92&height=200&section=header&text=Bryan&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=developer%20·%20student%20·%20creative&descSize=16&descAlignY=58" width="100%" alt="banner"/>
-  </picture>
+  <img src="./wave.svg" width="200" alt="coucou"/>
 </p>
 
 <!-- 🎀 Typing intro -->
