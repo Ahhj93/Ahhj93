@@ -12,13 +12,14 @@
 #### ⚙️ — Statistics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahhj93&theme=tokyonight&include_all_commits=true&count_private=true&card_width=925&layout=compact" width="100%">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahhj93&theme=tokyonight&include_all_commits=true&count_private=true&card_width=925&layout=compact&hide_border=true" width="99%">
 </div>
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ahhj93&show_icons=true&count_private=true&theme=tokyonight&card_width=900" width="100%">
+  <img src="https://github-stats-extended.vercel.app/api?username=ahhj93&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=495" width="49%">
+  <img src="https://streak-stats.demolab.com?user=ahhj93&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bb9af7&currStreakLabel=70a5fd&card_width=495&card_height=195" width="49%">
 </div>
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=ahhj93&theme=tokyonight&card_width=900" width="100%">
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=ahhj93&theme=tokyonight&card_width=900&hide_border=true" width="99%">
 </div>
 
 <!--
