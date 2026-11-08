@@ -1,6 +1,6 @@
 <!-- 👋 Wave -->
 <p align="center">
-  <img src="./wave.svg" width="200" alt="coucou"/>
+  <img src="./assets/wave.svg" width="200" alt="wave"/>
 </p>
 
 <!-- 🎀 Typing intro -->
