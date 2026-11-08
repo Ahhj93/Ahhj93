@@ -1,7 +1,7 @@
 <!-- 🌸 Banner -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1020,50:5c2a4f,100:ff6fae&height=200&section=header&text=Bryan&fontSize=70&fontColor=ffd6e8&fontAlignY=38&animation=fadeIn&desc=developer%20·%20student%20·%20creative&descSize=16&descAlignY=58"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1020%2C50:5c2a4f%2C100:ff6fae&height=200&section=header&text=Bryan&fontSize=70&fontColor=ffd6e8&fontAlignY=38&animation=fadeIn&desc=developer%20·%20student%20·%20creative&descSize=16&descAlignY=58"/>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe5ec,50:ffb3c6,100:fb6f92&height=200&section=header&text=Bryan&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=developer%20·%20student%20·%20creative&descSize=16&descAlignY=58" width="100%" alt="banner"/>
   </picture>
 </p>
@@ -9,7 +9,7 @@
 <!-- 🎀 Typing intro -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1200&color=FF6FAE&center=true&vCenter=true&width=520&lines=Hi,+I'm+Bryan+~;I+code+in+Python,+C,+OCaml+%26+VHDL;I+love+pretty+UIs+%26+clean+code;Welcome+to+my+little+corner"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1200&color=FF6FAE&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Bryan+~;I+code+in+Python%2C+C%2C+OCaml+%26+VHDL;I+love+pretty+UIs+%26+clean+code;Welcome+to+my+little+corner"/>
     <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1200&color=E0457B&center=true&vCenter=true&width=520&lines=Hi,+I'm+Bryan+~;I+code+in+Python,+C,+OCaml+%26+VHDL;I+love+pretty+UIs+%26+clean+code;Welcome+to+my+little+corner" alt="typing"/>
   </picture>
 </p>
@@ -36,7 +36,7 @@ const bryan = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css,html,js,python,c,ocaml,latex,md,github,figma,vscode,idea,discord,sqlite,ubuntu,windows,apple&theme=dark&perline=9"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css%2Chtml%2Cjs%2Cpython%2Cc%2Cocaml%2Clatex%2Cmd%2Cgithub%2Cfigma%2Cvscode%2Cidea%2Cdiscord%2Csqlite%2Cubuntu%2Cwindows%2Capple&theme=dark&perline=9"/>
     <img src="https://skillicons.dev/icons?i=css,html,js,python,c,ocaml,latex,md,github,figma,vscode,idea,discord,sqlite,ubuntu,windows,apple&theme=light&perline=9" alt="skills"/>
   </picture>
 </p>
@@ -73,7 +73,7 @@ const bryan = {
 <!-- 🌸 Footer -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff6fae,50:5c2a4f,100:1a1020&height=120&section=footer"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff6fae%2C50:5c2a4f%2C100:1a1020&height=120&section=footer"/>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb6f92,50:ffb3c6,100:ffe5ec&height=120&section=footer" width="100%" alt="footer"/>
   </picture>
 </p>
